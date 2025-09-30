@@ -1,0 +1,4 @@
+#!/bin/bash
+chmod +x scriptid
+echo "Minu nimi on Hedy Kirsipuu"
+echo "Õpin skriptimist kursusel ITS24"
